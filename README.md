@@ -19,7 +19,7 @@ source slam_ws/devel/setup.bash
 
 roslaunch slam_ws gazebo.launch
 
-roslaunch slam_ws localizatio.launch
+roslaunch slam_ws localization.launch
 
 
 4.安装运行teleop_node,该节点可控制小车移动
